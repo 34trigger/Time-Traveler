@@ -1,0 +1,19 @@
+.arka {
+    position: relative;
+    bottom: 30px;
+    width: 100%;
+    height: 576px;
+    background-image: url(19852-scaled-e1602497798272.jpg);
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+.display-4 {
+    position: relative;
+    top: 50px;
+}
+
+.lead {
+    position: relative;
+    top: 70px;
+}
